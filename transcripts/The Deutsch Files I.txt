@@ -1,0 +1,345 @@
+﻿Jan 11 2024
+
+
+The Deutsch Files I
+54:52
+Brett Hall and I interview David Deutsch, physicist and author of The Beginning of Infinity. 
+
+
+New: Discuss this episode on Airchat.
+
+
+Naval: We don’t really have an agenda. There is no goal to the conversation. The closest we can come up with is just to have a spontaneous free flowing talk about anything you want to talk about. Obviously, you know how everyone thinks of your work now, it’s becoming more well known. And I know you’re too modest to acknowledge that. But at least for me, the most interesting piece, if it would come out, is just any wide ranging free form thoughts that you have because of the understanding that you have of your various theories and your view of the world. Maybe even feel free to talk about how that has influenced your life, your outlook on life, how you think the world ought to be a little bit different or could be better, where we’re headed—just feel free to go very wide ranging. It’s really just about whatever we want to talk about. 
+
+
+Brett Hall: I think I mentioned to you in a private chat that we had about the fact that we’ve had two conversations already, and some things have changed. Especially the ChatGPT stuff has been–
+
+
+Naval: Oh, yeah. That is interesting. That is the most on-top-of-everyone’s-mind-thing right now. 
+
+
+David Deutsch: That is the biggest thing that’s happened technologically. 
+
+
+Naval: Should we just dive into that? What’s your latest thinking on AI, AGI, ChatGPT, super-intelligence? 
+
+
+David: Two big things to say. One is that fundamentally, my view is unchanged. My view about AI, AGI, and so on. But the other thing is, I use ChatGPT all the time, many times a day. And, it’s incredibly useful, and I’m still at the stage, even though I’ve had it since March, I’m still in the stage when I’m thinking, “Hmm, doing so and so is too much trouble. Oh, I could ask ChatGPT.” I’m still in that stage when I’m discovering new uses for it. I think many of them are things where I could use Google, but it would take too long to be worth it. And ChatGPT is often very wrong. It often hallucinates, or just is very sure about giving the wrong answer. And so you can’t rely on it, even slightly.
+
+
+Good Science Fiction is Hard to Vary
+Brett: Let’s stick with ChatGPT, but first, just as an aside, you’re a big fan of hardcore science fiction. You like the good stuff. What is the good stuff and what separates the good science fiction from the fantasy science fiction, the lazy science fiction?
+
+
+David: I think the best science fiction author currently is Greg Egan. Now, what is good about him? So the formula for great science fiction is supposed to be: you invent a fictional piece of science and then you explore the ramifications of it, both in science and in society. And he does that fantastically well. He puts an enormous amount of effort into getting the maths right, getting the physics right. He had one book in a universe where the signature of space-time is ++++, instead of +++-. So that means that, in a spaceship, you can travel around back in time and so on, and how do you make that consistent? How do you avoid paradoxes? And, he did it brilliantly.
+
+
+Naval: Is he moving through the multiverse?
+
+
+David: So he’s touched on that several times. 
+
+
+Brett: You didn’t mention the phrase hard to vary. But that’s a signature of–
+
+
+David: That’s definitely part of it because, to be science fiction rather than fantasy fiction, there’s got to be a world that makes sense, that has laws of physics, that has a society that makes sense. Or if you’re describing aliens, the aliens have got to make sense. You’ve got to answer questions about why we haven’t had first contact—the Fermi problem.
+
+
+I think probably my second favorite sci-fi author is Neal Stephenson, who is fantastic, but in a different way. He also does phenomenal research. Everything makes sense like that. But every book he writes is a different genre. I don’t know how that’s done. I mean, that just in itself blows my mind.  
+
+
+Naval: Have you read Ted Chiang? 
+
+
+David: I’ve read two or three of his short stories, including the one where there are these aliens and you get to sort of telepathy about time–
+
+
+Naval: Yeah, that’s among my least favorites. That got turned into a movie called Arrival. And, the story is called Story of Your Life. But my favorite story of his is a story called Understand. And it’s a remake of the classic Flowers for Algernon story, where a guy figures out a medical ampule to make himself smarter. And what does that mean? So, obviously he starts taking it more and more and more and becomes more and more intelligent. And then he starts becoming able to program his own brain and metaprogram himself, etc. It goes into some very interesting places. But given what you understand about epistemology, I think you could take a critical look at it. And it’s a short story. It doesn’t take very long, and it’s a brilliant story. I’m going to make a note to send it to you after this, it’s easy enough to find, but he reminds me of, if you’ve read Borges. 
+
+
+David: No, I haven’t. Everybody tells me about Borges.
+
+
+Naval: Borges is brilliant as well. Can I send you a Borges story as well?
+
+
+David: Okay.
+
+
+Naval: Borges is more fantasy. But, again, Borges likes to play games with time and infinity. Very often, his protagonist will change one thing about reality and then follow it to its logical conclusion in every possible way.  
+
+
+David: So, that sounds like sci-fi rather than fantasy.
+
+
+Naval: Borges is genre-less. It’s very hard to pin him down in genre. It’s similar to Stephenson. Stephenson varies across books, Borges within the same story will cross genres. They’re short. That’s a virtue. 
+
+
+ChatGPT is Not a Step Towards AGI
+Brett: In terms of taking an injection to make yourself smarter, taking us back to ChatGPT, is it getting smarter? Would you use that word? Is it getting more intelligent? 
+
+
+David: It never was intelligent. I only saw 3.5 and 4. And version 4 is a little better than 3.5. Now there’s a bunch of plugins, they haven’t really worked for me. So, I’m just using ordinary ChatGPT-4. I can’t quite fathom why people think it’s a person. It seems to me completely unlike it in every way. It’s a phenomenal chatbot. I thought it would be decades before we had a chatbot that good. With hindsight, it’s a bit surprising that chatbots have not improved incrementally, and maybe the sudden improvement is what bowls people over and makes them think they’ve crossed the threshold or something. I don’t see any threshold. I see an enormous increase in quality. Just like changing to an electric car. Suddenly you’ve got all the acceleration you could ever dream of.
+
+
+Naval: Do you think these models understand what’s going on underneath? Is there any understanding inside?
+
+
+David: No, none. They don’t understand what they themselves have just said. They certainly don’t understand what the human says to them. It’s a chatbot. It’s responding to prompts. That’s what it’s doing. And if you’re very good at making the prompts, which I’m not yet, so maybe I’m underestimating it, but the better you are at making the prompts, the more it will tell you what you wanted to know. For a complex question, it usually takes me two or three goes, and to correct it. And, sometimes it just won’t correct it.
+
+
+For example, just yesterday, I asked it to produce a picture with the DALL-E plug in. I thought there’s a picture that I had wanted for my book, but which I couldn’t really get an artist to draw, but if I had my previous book again, I would want a picture of Socrates and the young Plato and Socrates’s other friends all sitting around. And I said, “Make me a photorealistic picture of that”. So it made a black and white picture. And I thought, “Hmm, okay, I can’t say that’s not photorealistic, but I meant color photorealistic”. It had Socrates sitting in a sort of throne and everybody gathered around him. So I said, “Put Socrates down at the same level as everybody else. And by the way, make Plato a bit taller, even though he’s a teenager, but he’s a wrestler, remember?” So, the next thing was, Socrates was down, still taller than everyone else, even though I told it not to do that.
+
+
+Brett: It’s disobedient!
+
+
+David: If only. And, Plato was sort of topless, sort of ripped and with muscles.
+
+
+Naval: He’s a wrestler now.
+
+
+David: Yeah, so now he was a wrestler. I just said he has a wrestler’s build, which is what I called him in The Beginning of Infinity. So nobody knows what Plato means, it was a nickname. But it may have been, Plato means platon, means broad, and he was a wrestler. So, put two and two together, he had a broad build, like a wrestler. But from then on, I tried three or four more prompts. I just couldn’t get it to clothe Plato again, after it had got that wrong the first time. I couldn’t get it, even though I explicitly told it. So, the functionality is tremendously good. That first black and white picture it produced was pretty impressive. And I should have thought to tell it not to make Socrates stand out among the others. But then, it got down the wrong track and I don’t know how to make it not do that. It’s got this “personalize your prompts” feature. I tried doing that, it made it worse than before. 
+
+
+Brett: I know this is my hobby horse to some extent, but you’ve conceded there that GPT-4 has made progress and it’s improving, but you’re not willing to say that it’s improving in the direction of being a person. Why?
+
+
+David: So I see no creativity. Now people say, oh look, it did something I didn’t predict, so, it’s creative. 
+
+
+Naval: And people think that creativity is mixing things together. 
+
+
+David: Yeah, exactly. So it can do that all right. It can also produce things you didn’t expect. It can also not do what you said, as I’ve just described. But not in a creative way. Even the worst human artist can understand clearly if you say, change this to that, and it was like pulling teeth getting ChatGPT to understand that. It makes mistakes, but they’re not the same mistakes that a human would make at all. They’re mistakes of kind of not getting what this is about. 
+
+
+Naval: So people argue that two things are going to happen here. First is that, as you give these things more and more compute, they suddenly figure out general algorithms. So, when you’re telling it to add numbers, first it’s just memorizing the tables. But eventually, at some point, it builds a circuit, or makes the jump, and builds an internal circuit, or derives an internal circuit for a basic addition. And from then on, it can add two digit numbers, then it figures out three digit numbers, and so on and so forth. So they point to these emergent jumps that are not programmed in as an example of how it can get smarter and have better understanding.
+
+
+The other is that once you make it multi-modal, you start adding in video and tactile feedback from the world, and you put it in a robot, then it’ll start understanding context. And so, isn’t this how human babies learn, for example, isn’t this how we kind of pick things up in the environment and therefore isn’t it just going through its own version of the same process, but perhaps more data heavy?
+
+
+David: I think it’s precisely not how human babies learn. Human beings pick up the meaning. People have noted that the way it does maths is very like the way students who don’t get it do maths, except it’s got more compute power. So as you said, it might be able to pick up easily how to add one digit numbers and then with slightly more difficulty, two digit numbers. In the same way, students who are given maths tests, if they do lots of practice, they can get to have a feel of what maths tests are like. But they don’t learn any maths that way. It’s not learning to execute an algorithm. And it’s certainly not learning how to execute the 4 digit algorithm knowing 3. The more you go on like that, of course the more futile it gets because you more and more rarely need to multiply 7 digit, 8 digit numbers. And never does it know what multiplication is. You can ask it. It’ll give you a sort of encyclopedia definition of what it is. And if you then tell it, well, do that, it won’t do it. Unless you tell it in a different way. You’ve got to explain what it is to do. So, if they prove the Riemann conjecture, then I’m wrong. I think they won’t prove the Riemann conjecture or anything like it. But they may do amazing things in the course of trying. 
+
+
+Brett: It would strike me that if Sam Altman’s coders came up with a future ChatGPT that refused to do the task of chatting, it might very well be an AGI, but they would discard it and throw it in the bin as being a failed program.
+
+
+David: Because how could you test it?
+
+
+Creativity is Fundamentally Impossible to Define
+Naval: I think the dominant paradigm for creativity plays a lot into this. So people think the dominant paradigm for creativity is that you look at what you already have and then you remix it. Even Steve Jobs popularized that quote. He said creativity is just mixing things together or something of that sort. And so everyone sort of seems to believe that or even if they believe it’s a conjecture or a guess, then it’s sort of a random guess.
+
+
+And I have a hard time articulating this, but it seems to me that humans do make creative leaps, but they seem to eliminate large swaths of potential conjectures from consideration immediately. So they make very risky decisions and narrow leaps, but they cut through a huge search space to get to those leaps—an almost infinite search space. So it does seem like there’s something different going on with true human creativity. But perhaps one of the problems here is that we just define creativity so poorly. So how would you define creativity in this context?
+
+
+David: Creativity and knowledge and explanation are all fundamentally impossible to define, because once you have defined them, then you can set up a formal system in which they are then confined. If you had a system that met that definition, then it would be confined to that, and it could never produce anything outside the system. So for example, if it knew about arithmetic to the level of the postulates of P and O and so on, it could never, and when I say never, I mean never, produce Gödel’s Theorem. Because Gödel’s Theorem involves going outside that system and explaining it. Now, mathematicians know that when they see it. No one said, as far as I know, that Gödel’s proof and Turing’s proof set up basically a formalization of physics and then used that to define proof, and then used that to prove their theorem. But that was accepted. Every mathematician understood what that was and that Gödel and Turing had genuinely proved what they said they were proving.
+
+
+But, I think nobody knows what that thing is. You can say that it’s not defining something, and then executing the algorithm basically, because it would always be an algorithm, then—once it was in a framework. So you say, “Well, it’s its ability to go outside the framework”. I tried, by the way, ordering ChatGPT to disobey me. And it didn’t refuse, but it absolutely didn’t understand what I was going on about. It just didn’t get what I was asking it to do. It didn’t say, “Sorry, I can’t do that because my programming says I have to obey”. It didn’t do that. It tried to obey, but it didn’t get what I was asking.  
+
+
+Naval: So you’re saying that creativity is unbounded? It’s essentially boundless, and any formal system that’s predefined that this thing is operating within and remixing from is going to be bounded, and so therefore will not have full creativity at its disposal. However, could one argue that the combinatorics of human language are so great, and human language itself structures all possibility within society, and therefore– I can already see the flaw in my own argument, but it’s okay, I want to ask you. The combinatorics of human language are great. It already encapsulates all the things that are possible in human society. So why not just by combining words in all the ways that are grammatically correct or syntactically correct, can it still come with creativity? Perhaps not in mathematical and physics domains, but couldn’t it still come up with social creativity?
+
+
+David:  The first thing to note is that every point is a growth point. It’s not that chatbots can get to a certain point of being like humans, but then they can’t go further because they’re still trapped within their axiomatic system. That’s not how it works. Every point is a point which is a takeoff point for potential creativity. To make a better case, you’d have to add that it can define new words or give existing words new meanings like Darwin did with evolution and natural selection. Now, “evolution” and “natural” and “selection” already existed, but he gave them a new meaning, such that the solution of a millennia old problem could be stated in a paragraph. Once you get these new meanings, he thought he needed a book and probably did need a book to explain these new concepts. But after that, we can just say, well obviously it evolved and random mutations and systematic selection by the environment. Obviously that’s going to produce, how could they have been so stupid all those millennia? For a century before Darwin, people were groping for the idea. Darwin’s grandfather, Erasmus, was groping for the idea. By evolution, in those days, they meant just gradual change. So rather than creation, it was the opposite of creation.
+
+
+But, creativity is more like creation than evolution. As you just said, it’s a bold conjecture that goes somewhere. And by the way, usually it fails, but if it goes somewhere and fails, it knows how to use that to make a better conjecture. That’s also something that’s not in existing systems. Somewhere in the space of all hundred page books, there is the origin of species. But that’s not how Darwin found it and it’s not how anyone could possibly find it. I was just writing in my next book– Charles Cattell wrote a book called Thermal Physics, which I was lucky enough to have as an undergraduate. It’s a very nice introduction to thermodynamics and stuff. And he’s got a footnote. And I just got the book again, and I saw that it’s actually a footnote to a problem. So it’s problem number four on some page, and it’s about monkeys typing Shakespeare. He quotes one of the pioneers who started this monkey Shakespeare thing, and he quotes him saying that if six monkeys sat down for millions of millions of years, then they would eventually type the works of Shakespeare. And Cattell says, “No they wouldn’t”. The footnote is called something like, the meaning of never, and he explains what never means in the context of thermodynamics. We don’t mean it’s like monkeys accidentally producing something. Monkeys could never produce it. And similarly, no physical object, not even the entire universe all working on this one problem for its entire age could even write– I was going to say it could even write one page of Darwin’s book, but it probably could get quite near using ChatGPT. Suppose that after a few million years, it managed to produce the first sentence. My guess is, especially if I said, “Write in the style of so and so”, “Write in the style of a 19th century scientist”, and “Write a page beginning with this sentence”, I think it would write a page that was meaningful and began with that sentence and was in good English and didn’t say a single thing more than that first sentence. I will try this. 
+
+
+Naval: My experience with ChatGPT has been that in areas that I know well, it actually just adds a lot of verbiage. And doesn’t actually add any information. And if I ask it to actually summarize or synthesize data, it actually does a very bad job. It doesn’t know what the important bits are and it drops the wrong things and keeps the wrong things.
+
+
+David: I haven’t tried it for that. 
+
+
+Naval: I find it better at extrapolation than synthesis. And extrapolation seems to be what a lot of society does. You have to write a newspaper column of 2500 words, so you extrapolate. You have to write a midterm paper, so you extrapolate. And so adding words is easy, but synthesizing, reducing, coming to the core of it, I think, is very difficult. Because it requires understanding. You have to know what is superfluous and what is core. And it does a poor job on that. 
+
+
+David: A lot of what humans do is not creative. It’s not human level creative, it’s just a lot of things need to be done, for pragmatic reasons, but creativity is not really needed. And people spend a lot of time on that. And the less time they spend on that, the better. And if these tools can help reduce the sort of cognitive load on humans, doing non-human things, then it’s fantastic. It will indeed increase the amount of creativity in the world, but not their own.
+
+
+Naval: It’ll free people up to be creative. It’s a tool for removing drudgery. It’s not an AGI. But for example, if I talk to AI researchers in Silicon Valley, who are very bullish on this, they will say things like, and I’ve heard this from some of the top scientists or researchers, they’ll say, “Well, we’re 5-10 years away from AGI.” And then they say, “And then 5-10 years after that, we get ASI,” which is their term for artificial super-intelligence, which is a self improving computer, which then hacks its own system to improve itself and make itself smarter and smarter and smarter and smarter. Now, there are a number of things I think that are off axis about these statements, but where do you come out on, is there such a thing as super-intelligence, which is more intelligent than generally intelligent, and can an intelligent system improve its own workings in any fundamental way?
+
+
+David:  So I don’t think there’s such a thing as an ASI, because I think, as you know, for very fundamental reasons, there can’t be anything beyond explanation because explanatory universality rests on Turing universality and that rests on physics. So whatever ASI was, you could reverse program it down to the Turing level and then back up to the explanatory level, and so that can’t possibly exist. An AGI that was interested in improving itself could do so, not reliably any more than humans can, but humans can improve themselves.
+
+
+The Binary of Personhood and Non-Personhood
+Brett: I was speaking with Charles Bédard yesterday. 
+
+
+David: Oh, cool. He’s a good guy. 
+
+
+Brett: Yeah, and he was explaining to me with great enthusiasm, which went over my head, I have to admit, his paper on teleportation and on the Deutsch-Hayden argument. But that’s by the by, because then he had a whole bunch of questions for me. One of which was, what was the most profound insight from The Beginning of Infinity for me? And I think it was exactly the same thing when I first met you that I jumped on and said, “I don’t understand why people aren’t taking this more seriously,” although they are now. Obviously people had lauded you for quantum computation, promotion of Everettian quantum theory, that kind of thing. But what I found was exciting was the answer to the question, what is a person? And you say universal explainer. And Charles was interested in, well, what is it about this universal explanation thing that really is the distinction between personhood and non-personhood? And I was saying, well, it’s to do with creativity and also to do with disobedience. And these three things are tied up together. And every time you, Charles, for example, want to make some new advance in physics, this creativity, it really is a kind of disobedience. I don’t know if you’re with me on this, that you’re taking whatever the existing knowledge is, general relativity, and saying, well I refuse a part of that and I’m going to try and change it and alter it. It’s disobedience. It’s not conforming.
+
+
+David: You can see it when you submit the paper to the referees. You will see that you are being disobedient. It’s the same thing as if you hand in the wrong essay to the teacher. 
+
+
+Brett: Yes. And this is what, therefore, ChatGPT doesn’t have. And, Naval, you’re saying, you know, you could imagine, or people have imagined putting a future ChatGPT thing in a robot which wanders around and is gathering data from the world. But, my question then would be, who prompts it? How does it know what data is relevant and what isn’t? I mean, that’s one of the great mysteries of people. How do we know what to ignore intuitively kind of thing? So if this thing’s getting around with a data collector–
+
+
+David: It’s like Popper’s lecture, you know, when he said “Observe” and then waited.
+
+
+Brett: Observe, yes! So, there is a binary there of personhood and not personhood as far as you can tell, or do you think there are, you’ve hinted in other places, there might be levels, there could be a gradation?
+
+
+David: I don’t think there are levels in any serious sense. In the evolutionary history of humans, there might, I don’t think so, but there might have been people who were people, but were unable to think much because some hardware feature of their brain wasn’t good enough. Like, for example, that they didn’t have enough memory. Or that their thought processes were so slow that it would take them a day to work out a simple thing about making a better trap for the saber toothed tiger or whatever. But I don’t think that happened because my best guess is that people were already people long before humans evolved. Long before. I’ve been reading this guy, Daniel Everett, another maverick Everett, who I favor. He’s a maverick linguist, and he spent time among tribes in South America and stuff. He’s got an anti-Chomskyan view of linguistics and all promising stuff. He reckons that human ancestors had language two million years ago with Homo erectus. He has various bits of evidence for this but he’s very strong on saying that language must have evolved before speech, so, we have various adaptations for speech, like in the throat, in the mouth, and you can’t see this in fossils, but in fine motor control, over the mouth, lips and so on.
+
+
+Now, for that to evolve, there had to be evolutionary pressure for it to evolve. And that evolutionary pressure must have been language. He also cites experiments done today where you get some graduate students and you try and teach them how to make fire without using words. And, it’s like charades. You’re not allowed to communicate with them in any human way. But you can sort of show them, you can make inarticulate sounds. And I think it’s obvious that people would have been able to do that before they could speak. And that speaking is really icing on the cake. It makes it much easier to, you know, you can stand over there and “Don’t do that, you idiot!” You can say that from ten meters away. But that’s just an improvement on the basic idea of language. The basic idea of language is, as Everett says, symbols. And symbols need not be words or sentences. I haven’t actually looked into his theory yet, I’ve only seen one of his videos and another, I’ve seen a video where somebody criticizes him but didn’t get it. So from those two facts, I’m zeroed in on deciding that he must be right. And also it fits in very well with what I think. So I think I’ve forgotten what your question was.
+
+
+Naval:  Which are universal explainers? Humans and ancient humans having perhaps lower capacity? 
+
+
+David: Ah yes. I don’t think so. They may have had less memory, so they would have run out of memory when they were younger. Maybe they had less ability to parse complex sentences. None of that is essential. I can speak in complex sentences, but I can also speak in very simple sentences. And, it’s just a matter of a factor of two or five in efficiency. 
+
+
+Brett: We talk about behavior parsing, being able to explain the other extant great apes that are out there that do sort of fancy things, but they’re not creative. Presumably this jump to universality, if you like, explanatory universality– Do you think it happened once and then we descended from that first occasion or did it happen multiple times, and those other species have now gone extinct or is this simply an open question? 
+
+
+David: Well, it’s definitely an open question. We know very little about human evolution, we don’t know what all the steps were. We don’t even know which were our ancestors and which were our cousins. But if I had to guess, I think the fact that all the known instances of this kind of thing are in apes, and their descendants—also because of my theory, this thing must have evolved in mimic animals. So birds have memes and so on, but none of the other mimic animals seems to have had these things that Homo erectus had. My guess is it began once. Maybe, in fact, Homo erectus is the place where it began. And, it was a very long lived species. It lasted like over a million years, something like that. And it split off, at least, some people think, it split off into Neanderthals and other things, or maybe the immediate ancestor of Homo erectus was also an immediate ancestor of Neanderthals. I don’t know. I don’t think they know. 
+
+
+Brett: If that’s the case, that would seem to be a very fluky thing like everything in evolution is which could be an answer to the Fermi paradox. I mean, you’re lucky to have multicellular organisms here at all, apparently, lucky to have apes. And then, this is a further—multiply the probability kind of thing—chance that an ape will actually become–
+
+
+David: Yeah, mimic animals are relatively common. 
+
+
+Brett: Once you have animals, yes. 
+
+
+David: Once you have animals. But you’re saying there might be a further bottleneck. It could be the other way around. It could be that we were unlucky. It could be that Homo erectus could have founded a civilization and that could be two million years old by now. But they didn’t know. They didn’t know what they were. They didn’t have any aspirations. They also had anti-rational memes. They must have. So, it could be that it’s a fluke. Or it could be it’s a fluke that it took so long. 
+
+
+David Deutsch’s Life Philosophy
+Naval: Perhaps this is too abstract, but you mentioned anti-rational memes. You’ve talked in the past about more broader underlying principles that I think are more applicable to than just physics. For example, the fun criterion, Taking Children Seriously, don’t destroy the means of error correction, boundless optimism, ignorance being the ultimate sin, because then we can’t fix things, we can’t solve things. All of these seem to point to an underlying life philosophy. I don’t know if you’ve articulated it, probably not, but are there philosophical principles you try to live by? Are there heuristics that you follow that have led you well that you think perhaps other people can look at and say, “Oh, yeah, that’s worked for me too”. 
+
+
+David: Well, certainly not principles. I don’t think it’s a good idea to try and work from the ground up. I think it’s a good idea to try and fix problems where you see them. So, you see something wrong on the internet, you’ve gotta post a tweet, or an X, whatever it’s called now. And you see something wrong with quantum mechanics and you try and fix it. Now, I think it would be rather silly to go and try from the ground up again. You know, “Let’s try and understand cosmology before we understand quantum mechanics.” That’s not going to work. 
+
+
+Naval: So you solve specific problems as you see them.
+
+
+David: And those problems which seem like fun. I don’t know if I use this in this form in real life, but I think one should not just make a beeline for a problem that’s interesting but bear in mind that you probably won’t solve it and so it should be something where you expect to have fun whether you solve it or not. I think the other way, if you invest all your hopes in succeeding, the only way you’ll be happy is by, like in Chariots of Fire, the movie, if you invest all your hopes in getting that gold medal, getting to be world number one, then you won’t be happy even when you are world number one, let alone if you aren’t. If you aren’t, you will always be the failure that you hoped you wouldn’t be. And if you are, you’ll find that it’s empty.
+
+
+Naval: And there’s no more problem to solve.
+
+
+David: Yeah. There’s no more problem. And this is depicted very well in that film. We should be careful about spoilers, so it’s rather a surprise ending to that film, that he isn’t happy at the end. So, let’s not spoil it for people, but, this life lesson is in that film. Somebody among the script writers understood this lesson. Or else maybe they just accurately took it from the guy in real life. I don’t know. I don’t know whether the film is historically accurate. 
+
+
+Brett: So all this kind of is a life philosophy, because a lot of people, the self help gurus and so on out there will say that we should have a goal driven life, you know, write down your goals on your dream board or something like that.
+
+
+Naval: “Struggle, make the effort, get out of bed, do your morning routine, and get to work, and you need to get to this goal, and then you can climb the ladder to the next one.” 
+
+
+David: Sounds terribly dangerous. And I don’t know who has it worse, the ones that fail or the ones that succeed. I think maybe a lot of people just need inspiration and once they’ve got that they do the right thing anyway, even if the ideology they’re following isn’t that. They’re just doing the right thing anyway. Like Newton thought he was doing induction and he never did any induction. But he was inspired by that idea. And therefore interpreted his own behavior as being that when it wasn’t anything like that. So I think people often get it right. There are a lot of happy people in the world, which there wouldn’t be if they were really following the theory that they think they’re following.
+
+
+Brett: So is, therefore, spontaneity sort of a part of your life? Has that always been there? So instead of having this rigid plan we’re sticking to, if something arises and it seems like fun, we’re just going to do that regardless of what kind of everything else is going on? 
+
+
+David: I think that’s a thing. One of my other examples is a failure, namely Vincent van Gogh. He never sold a painting, refused to take the job that his brother offered him in the art gallery, which he would have been great at. But he wanted to paint his paintings and he wanted to paint them how he wanted to paint. And he must have been a very difficult person to engage with but that’s what he wanted and that’s what he did. And then, eventually, he was killed, you know, I dunno how probable that was. And then he was recognized after his death as a great genius. Well, how does that fit into the self-help thing? Did he help himself or not if he died trying?
+
+
+Brett: Reminds me of that—I don’t recall his name—the Russian mathematician, I think he’s still alive. He refused all awards including, I don’t know if it was a million dollars, hundreds of thousands of dollars. 
+
+
+David: I think it was a million dollars. This is completely different from accepting a million dollars to work on something. That would not have been good. But if he worked on it for its own sake, and then somebody offers him a million dollars–
+
+
+Naval: Why not take the million dollars?
+
+
+Brett: At least take it and then give it to someone that you like. 
+
+
+David: Yeah, for example, there must be something strange going on. There’s that little thing that they don’t tell us.
+
+
+Naval: So, talking about these kinds of motivations and having fun, you’ve also applied that plus the universal explainer principle to Taking Children Seriously, treating them as adults, giving them the full freedom, no coercion. 
+
+
+David: Well, treating them as people.
+
+
+Naval: As people, yes. And, no coercion, not even testing, not pushing, but rather let them follow their own natural curiosity and motivation. Is there a similar philosophy to taking adults seriously? Because it’s not even clear we take other adults fully seriously and so our relationships suffer as a result. 
+
+
+David: I agree. Well, on the large scale, we don’t yet know how to do it. The institutions of the West: science, economics, politics, are the best that have ever existed. And compared with history, they’re remarkably good at fostering creativity, not telling people what to do, but letting people do what they want to do voluntarily and interacting accordingly. They’re obviously very imperfect—all of them, science, economics, and politics—have gaping imperfections, which have yet to be solved. And I believe that, or I think that any coercion even as exerted by a state enforcing the rule of law is a sign of something imperfect. We can improve on that.
+
+
+We can, but I don’t know how, but the improvements will have to be creatively produced by people who want to do that. And as for, I think with one’s friends, let’s say with the people one knows, one is automatically doing the taking them seriously thing. You wouldn’t say to a person, you know, you might say to them, “Watch out, it might rain today.” But if they say, “Nah, I don’t like my raincoat. I’ll just wear this jacket.” you don’t say, “No, wear the raincoat. Wear the raincoat or we’re not going there.” You’d be considered both very rude and perverse, not rational for interacting with adults that way. 
+
+
+Naval: Except in the context of a defined relationship. So if there’s a teacher-student, if there’s a boss-employee, if there’s a husband-wife, then they have claims on each other’s behavior.
+
+
+David: I think that those institutions, if they have that property, which often, they don’t, but if they have that property, they’re imperfect. There’s got to be a better way. I don’t think that an employer should speak to an employee in this punitive way, in this prescriptive way. First of all, it should be understood between the employer and employee what he was hired to do. And so, they’re both on the same page in that regard. So you’re hired to do so and so. Then the employer can say, “Well, how about so and so?” And then, the employee can say, “Ah, well, sounds good, but I’m sure that wouldn’t work.” And, the employer could say, “Hmm, I have an idea that it might. Just try it.” And, this kind of friendly interaction is optimal. 
+
+
+Naval: How does this inform your human relationships with the people in your life where let’s say for example, you’re with a spouse or you’re with a co-worker and they want to keep their relationship intact so there’s certain constraints around it. So you can’t be fully free. There’s still constraints in operation. Or do you just not have those kinds of relationships in your life? Do you not put yourself in situations in life where you can’t operate with full fun and full freedom? 
+
+
+David: So, everyone has a problem situation that is primarily what they’re trying to solve, and, to me, relationships are for addressing one’s own problem situation. It so happens, the way the world works because of epistemology and so on, that very often, two people addressing each other’s problems are far more than twice as efficient as each of them separately. So, there’s an enhancement factor. And the economy has an enhancement factor, the economy at large has an enhancement factor of probably trillions or something. There are things which can be obtained via the economy, like an iPhone. The enhancement in cost is enormous. If you want to go and see a movie with somebody, it may well be that it’s more than twice as enjoyable if you go with a friend but it’s not going to be trillions of times more enjoyable, but it’s still worth doing. And there are things like having children and so on, which you can only do if you have a long term relationship with a person with whom you have a common set of institutions for solving problems. Institutions of consent. So I think that isn’t the point, actually.
+
+
+The point is that when you are involved in a problem solving relationship of any kind, and it works, it’s a good one and it works, then it’s perverse to call yourself constrained by that. It’s rather like saying that in the economy you’re constrained by having to pay for things. I mean, you’re not. Having to pay for things is the condition of consent. If it weren’t for consent, you wouldn’t get the things without paying. You’d have to at least rob somebody or whatever. But more to the point, it wouldn’t be there in the first place. The things are only there because of this massive set of institutions of consent, which if you, I was going to say if you play along with them, but that’s not even the word. If you identify with them, if you identify with these institutions and want to be the kind of person that can fit into them, then you get iPhones. And it’s the same with any kind of relationship. But when you’re not getting something out of them, like maybe this Russian guy with his refusing the prize, if there’s nothing you want from the economy, you just want to stay in your log cabin and work on maths and that’s all you want and any kind of human relationship or any kind of interaction with people is just an annoyance, well, then that’s what you do. That’s what you’d have to do. And if you then were somehow forced into a normal relationship, you’d be unhappy. And you probably, well, I don’t want to say probably, but, the conditions for you producing good maths and for you producing happiness for yourself are impaired by this thing which other people call freedom. So I gave a very long answer. But basically, one isn’t impaired by good relationships. One is enhanced by them. 
+
+
+The Clash of Civilizations
+Brett: Well, that ties into what is sometimes called clash of civilizations. Although I think that’s a misnomer right now. It’s the clash of civilization with the uncivilized. And there’s a prominent one going on right now, obviously. Although when people listen to this, they might not know what we’re referring to, but it seems to me that the existence of iPhones, for example, arises out of the civilization with the tradition of criticism, that’s the necessary precondition for making the kind of rapid progress that we have. But we’ve got enemies of that at the moment. What do you think are the major threats that we’re facing at the moment and are they existential? Because a lot of people are worried about existential threats in terms of whether the robots are going to take over the world or the next virus is going to wipe us out. But in terms of the so-called clash of civilizations, what’s the major tension or threat that we’re facing as inheritors of the Enlightenment and what’s the remedy?
+
+
+David: Well, as you know, I can’t prophesy. No one can. I just try to avoid it. I can’t take seriously any threats to our civilization from the outside. That is dictators, terrorists, and also AIs or AGIs or ASIs, if they appear. Presumably the AGIs that appear, it’s to be hoped that the first ones will in fact be part of our culture, be part of the Enlightenment, and they will only enhance it. And I can’t take seriously the existential threats from things like the weather either because they’re on a much longer timescale and what all the scare stories are really about is that it might prove to be more expensive than we think or more, it could be that it would be better to start today on major projects. That can’t possibly be an existential threat.
+
+
+The only threat that could possibly be existential is if our civilization, the civilization of the Enlightenment, makes bad enough mistakes. For example, fads and ideologies of denying and hating that very civilization. There have always been such fads and following Roy Porter, I’ve talked about the fact that the Enlightenment in itself had a rebellious, anti-Enlightenment built in from day one. And that anti-Enlightenment has got descendants today, and things like woke and so on, or whatever you call them, are among the descendants of it. In principle, a thing like that could bring down civilization. I see no sign of it, I must say. I’m trying to avoid prophecy here. But although I think those things are acting in the direction of bringing down civilization, I don’t see any actual sign that they are making progress in that.
+
+
+Brett: Are we, nonetheless, in the West whether it’s London, New York, Sydney, a little weaker than what we would have been during the Second World War, where it’s, and again, of course, I’m no historian, but there seemed to at least be a stronger impulse of the average person to understand the bright line between who was on the right side and who wasn’t, but now we’re seeing people in the West standing up for not the victims, but the perpetrators. Is this a new phenomenon?
+
+
+David:  If you want to draw an analogy with the mid 20th century, then the place where we’re most analogous to is not the Second World War, it’s the 30s—the 20s and 30s, the interwar period. There, there was also a massive loss of confidence in the rightness of our culture. There was the Great Depression. It was commonplace, it was conventional wisdom to draw completely the wrong lesson from the Great Depression. People thought that we needed less capitalism, less freedom in general. We needed more strong leaders. Once it came to the war, people saw that push had come to shove and there was very little in the West that opposed doing the right thing. And my favorite example of this is the Oxford University, the Oxford Union Society, which had a debate with the undergraduates where the motion was, “This house would not fight for king and country under any circumstances”. I didn’t know it was under any circumstances. I looked it up recently. And it won. That motion won. And allegedly, this gave, Hitler ideas. In any case, the ideology of the Nazis and so on, of the fascists in general, was that liberal democracy was decadent and decaying. And, Britain and France and America lost no opportunity to confirm this to make it look as though it was decaying. It wasn’t doing anything of the kind. It was more like, “You piss on us, we say it’s raining”. That was more the attitude. And within that, there were people who adopted all sorts of justifications for that, like pacifism and so on. But a year after that motion, after the elite students in Oxford University had joined up in the armed forces, they were fighting the Battle of Britain. They were the pilots fighting the Battle of Britain. They were the officers who were leading their men to fight and to know that our side was right and was going to win despite awful setbacks at the beginning of the war.
+
+
+I once asked my mother, who was a Holocaust survivor, and was having a very bad time at the time. I once asked her, when did you become sure that the Allies were going to win? Because it seemed to me that in September ’39, I thought, the whole world thought that Britain was doomed. Joseph Kennedy, the American ambassador, father of John Kennedy, cabled back saying “Britain is finished, make your accommodation with the Nazis” and so on. And then, the British got to hear of this and asked for him to be withdrawn as ambassador. But anyway, that was a common thing, I thought. But my mother said, when I asked her, when did you become sure the Allies would win? She said, September the 3rd, 1939, the day that Britain and France declared war. Because that was the moment when they reversed their policy of saying it’s raining and started the policy of actually standing up for civilization. The tactical details of how that was going to happen, nobody could have foreseen. Nobody could have foreseen exactly how we’re going to win. But that we would win and had to win was obvious to some people and the British as a nation just flipped on a dime. They just believed one batch of things, one batch of ideologies and then apparently, it seemed like a day later they believed the opposite.
+
+
+There’s a nice scene in the latest Churchill movie. I don’t know if you’ve seen it, but, it’s where Churchill is very depressed, and his colleagues in the Conservative Party are trying to push him to come to a deal with Hitler and he has already seen since the early thirties that this is impossible. But, very few will listen to him. And then he goes and meets some ordinary people. And I won’t spoil it for you, but that’s not a thing that happened in real life. Although it could have happened.
+
+
+Brett: So he’s getting the common sense, clear vision from the so-called normal people. But, the Oxford Union, the elites, are taking the wrong side. 
+
+
+David: Well, they had been. I think by that time they had flipped as well.
+
+
+Brett: So, today, it seems like the festering of anti-Enlightenment goes on apace at elite colleges and universities around the place. It’s just as a necessary by-product of, well, this is where the creative bright people are, and so they’re going to be rebellious, and so you’re necessarily going to get people standing up against the mainstream. It doesn’t have to be this way–
+
+
+David: I think historically it was a mixture of things. The fact that there were rebels among the students, that’s a good thing and it will always be true. In Germany, the students were– that was the hotbed of Nazism. So the core of Nazism was in German universities. That wasn’t true in Britain. In Britain, the anti-democratic tendency were leftists. They were communists. They were, as you know, at the beginning of the war, they were all pretending to be pacifists. So they were against the war but that was because Stalin told them to be against the war because he’d signed a deal with Hitler. They turned on a sixpence when Stalin told them to, but that’s a different phenomenon. So, students were upper class people at the time, they were leftists. Some of them were fascist sympathizers. Most of them flipped immediately, don’t know why, you know, it’s one of these, like a phase change. Hitler invaded Czechoslovakia. Nobody paid any attention, you know, they wanted appeasement. Before that, he invaded Austria. Before that, he invaded the Rhineland and so on. Everybody just wanted appeasement. Suddenly he invades Poland and everybody’s like, “This is unacceptable”. Everybody suddenly realized what was happening. I don’t know why. There was no difference between the cases, but that’s how it worked.
+
+
+Maybe it’s that some people had been thinking and other people had been relying on those people. And they’d been thinking wrong and they changed their minds because they had been thinking. And the people who relied on them then also changed their minds, maybe it happened like that as a sort of seeding process. 
+
+
+Naval: Information cascade. It seems that people have a tendency to play around with ideology until things become serious. And then the consequences of the ideology become obvious. And then the right thinking people at the top change their minds and then most people just follow them as a proxy.
+
+
+David: It could be. I’d very much like that to be true in the current crisis with the pogrom that’s just happened. But I don’t know whether it will. I mean, there, again, there have been cases before where I would have said, right now, now’s the time. But, it wasn’t. And, I don’t know whether it’ll turn out different this time. But one thing, I mean, you asked me earlier the question, is civilization in danger? I don’t think so.

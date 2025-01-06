@@ -1,0 +1,244 @@
+﻿Naval
+Archive
+
+
+Aug 11 2023
+
+
+David Deutsch: Knowledge Creation and The Human Race, Part 2
+34:00
+Get podcast 
+Brett Hall and I interview David Deutsch, physicist and author of The Beginning of Infinity. Also see Part 1.
+
+
+Popper’s Impact
+Brett Hall: One of the other things that is counterintuitive—and one of the misconceptions that I see crop up out there in academia, intellectual circles, education—is that people think that there’s a final theory. [They think] what we’re trying to achieve is a bucket full of theories that will be the truth at the end of some period of discovery and that we’ll be able to carry around the bucket and say, “Here are all the truths. We’ve got no more work to do.” We’re going to sit down and do nothing, apparently, except let the AI take care of all the menial jobs. We’re going to be laying back on sun chairs and drinking cocktails or something like that.
+
+
+As far as I can tell, you are the only person today explaining that this whole vision of the way in which knowledge is constructed and what our purpose is in science and everywhere else, it’s completely misconceived. It’s not just that it’s a little bit wrong; it’s infinitely wrong. Because there won’t come a time when we’re going to be lying on the same chairs, drinking cocktails, intellectually speaking. Can you say a little bit more about that, because it did come from Popper?
+
+
+David Deutsch: Absolutely. Popper’s philosophy is actually very broad in a sense because it’s so deep. Popper only had one idea, and that is that it all begins with problems, and there’s no royal road to solving them. If you look at it the right way, that tells you to go to fallible and anti-authoritarianism and conjecture and criticism, and so on. Then he applied that to lots of different things and he wrote dozens of books. People bought them, and every philosopher has heard of him. But there, I have to draw the line. That’s as much success as he had. Nobody actually got it, not even many of his supporters. People tended to get part of it. Although when someone is very creative and successful in a particular area, they tend to be a Popperian in that area, and they usually insist that it’s a special property of that area.
+
+
+Brett Hall: They have to be. If you’re going to make progress, the only possible way of doing it is finding the problem, purported solutions, and then criticizing those solutions. So you’re necessarily a Popperian if you’re making progress, even if you don’t know it.
+
+
+Creative Guesses
+Naval: If I were to give an example of exactly what you’re talking about, I interviewed Matt Ridley, who was a hero of mine growing up. I read all of his popular science books. I remember his book Genome and his book The Rational Optimist. His most recent one is about innovation. It’s all about trial-and-error or variation of selection or, as you say in science, conjecture and criticism. These are all just the same method. These are creative guesses. 
+
+
+Once you fully absorb this, it changes your view of the world. You just see that everything is creatively making guesses. We’re not copying. We’re not getting it from the environment. It’s not something that’s evident to us clearly in nature and then as we absorb it more and more as Bayesians or Inductivists, we somehow come up with the truth. Rather, everything is a theory-laden guess.
+
+
+It’s funny, I’m teaching this to my six-year-old because I want him to have a solid foundation, and he now understands intuitively that, “Yeah, everything is a guess.” So every time we get to something and he asks why, I say, “Let’s start making some guesses.”
+
+
+Once you absorb this view of the world, it is evident everywhere. For example, in my domain in technology and innovation, people think, “Yes, I’m being creative.” I’m guessing. The artists think they’re being creative, and they’re guessing.
+
+
+David Deutsch: By the way, you just mentioned a solid foundation of epistemology for your six-year-old. Even in Popperian epistemology, its role is not to be a solid foundation. It also requires improvement and is always imperfectly stated.
+
+
+I think that Popper didn’t concentrate enough on the concept of explanation, that the purpose of science is explanation. So one of the footnotes that I’ve added to Popperian epistemology is that it’s not just that good explanations are good heuristically and they help us to discover things; it’s rather that discovering them is what the whole thing is about. When you talk about, for example, testability, the only reason why testability is important is that in a particular field—namely physics—it’s the way one can test explanations.
+
+
+Experiments, Demonstrations, and Measurements
+David Deutsch: I’d like to draw a distinction between experiments, demonstrations, and measurements. When you do this experiment with the acid and base, since there’s no rival theory, what you’re doing is a demonstration.
+
+
+If you are showing that to a class of schoolchildren, you can say, “You’d never believe what happens when I pour this into that. You’ll never guess in a million years.” And then you pour it in and it changes color, and they say, “We’ve seen that kind of thing before.”
+
+
+But then it changes color back and then forward and back, and then you say, “How can that happen? That contradicts everything you’ve been told in chemistry so far. How can we find out? Some people say this was how it worked. Then someone else came along and said that was how it worked. How can we distinguish between those?” And that is an experiment. It’s testing two different explanations against each other, where you can’t tell without the experiment which is the good explanation. And then there’s a measurement, like the difference between what Newton did and what Cavendish did. Newton developed the theory of gravitation, but he never measured Newton’s constant. I think—don’t quote me on this—Newton could measure GM, where M is the mass of the Earth; he couldn’t measure G and M separately. And therefore when they guessed the mass of the sun and so on, it was always as a multiple of the mass of the Earth.
+
+
+Then Cavendish, by actually getting a hands-on experiment where you had a gravitational force between two things whose mass you could measure directly—by comparatively weighing them against a standard kilogram or whatever they had in those days—[showed] you can measure the constant. Now that is not an experiment. It’s called the Cavendish experiment. But in this terminology I’m trying to set up, that’s not an experiment because there’s only one explanation involved. Before, during, and after Cavendish’s experiments, he never doubted Newton’s theory of gravity. What he was trying to do was to measure Newton’s constant.
+
+
+Somebody could have come along and said, “Maybe Newton’s constant is different on different parts of the Earth.” But nobody did say that. If they had, then Cavendish’s measurement would’ve turned into an experiment. But there was no good explanation along those lines because Newton’s theory was incredibly successful, in part because it was so universal. So because of the problem situation at the time, what was missing was a measurement.
+
+
+Many experiments now that are called experiments are really measurements and many of them are really demonstrations—not that both measurements and demonstrations aren’t great.
+
+
+Naval: Let me make sure I understand. So you’re saying an experiment chooses between rival explanations or rival theories. A demonstration just shows, “If I do this, I get that. This is how the world seems to work. This is observable.” And the measurement can help refine a theory and make it more precise by figuring out things about it that we didn’t know. And those are three distinct things. And we use the term “experiment” loosely, but it’s really this key thing that is done once in a while to choose between two competing explanations, which is a very rare occurrence. It’s very rare to have two rival good explanations.
+
+
+Going back to good explanations for a moment, there are two other things I’ve seen mentioned. There are a few other techniques that I see you use a lot in the two books when referring to good and bad explanations. One is that good explanations make these risky predictions.
+
+
+Like Einstein had the prediction of the light bending around the sun or starlight bending around the sun. There are these risky and narrow predictions that before you would not have anticipated another one. You’ve talked about the simplest answer, or Solomonoff induction, where Solipsism is a bad explanation because you still have complex and autonomous entities but now you’ve added this extra entity in your mind.
+
+
+David Deutsch: I don’t mention Solomonoff induction, but I do mention in the book the simplest explanation. That’s not the right way to look at it, because you can only detect or measure or define simplicity once you have, let’s say, a theory of physics, then you can say that simplicity is the smallest number of bits in which a given program could be encoded. But if bits behaved differently, then things would become simple that were previously complex. And that’s exactly what happened with quantum computation.
+
+
+So there is no scale of complexity or simplicity that is prior to physics. You can, in principle, define complexity or simplicity. But it doesn’t make sense to ask how complex, say, a theory of physics is, because that’s the wrong way around. Simplicity is not prior to science; it’s posterior.
+
+
+Naval: This is also a theme running through your work. Computation has to be done in the real world and has to obey the laws of quantum physics. You talk about mathematics having to be bound to the laws of physics. So even the reductionist argument that, “No, all the good theories are basic,” just depends on what the laws of physics are and what the context you’re approaching it in is.
+
+
+David Deutsch: Exactly. And what you’ve just said refutes Solomonoff induction because that is based on a particular measure, namely the length of Turing computer programs. But he was unaware that he was assuming a complex structured theory of physics and then saying that we should choose the theory of physics that is simplest in those terms.
+
+
+I would expect that sometime after quantum theory, there’ll be yet another dispensation which will give us a different conception of complexity and simplicity. But already as a matter of logic, it doesn’t make sense to consider simplicity and complexity as being a priori fundamental compared with physics.
+
+
+Taking Theories Seriously
+Naval: One thing you bring up a lot, I would almost call it a Deutsch refutation—because I see you use this more often than almost any other author—is the theory refutes itself. For example, you talk about the precautionary principle. Since civilization has never followed the precautionary principle, if we start following it now, we’re no longer being precautionary. So it refutes itself. That’s one example, but you use many of these. So there’s these self-refutations buried in a lot of these theories.
+
+
+David Deutsch: Another way of putting that, though, rather than thinking of it as a method of refutation, is to think this is just what it means to take theories seriously, rather than just as forms of words that one learns to say.
+
+
+Like physics professors, when asked something important about quantum theory, they have learned to say, “Ah, well, it’s a particle in a wave at the same time.” And if the student says, “What does that mean?” The professor may well say, “You’ll get used to it. You will understand that eventually.” But what they often say, regrettably, is, “That’s the wrong question to ask. That’s not a meaningful question,” and “You are not allowed to ask that question.” But the question isn’t based in a misunderstanding of quantum theory; it’s the other way around. It’s taking quantum theory seriously and saying, “I want to understand quantum theory.” And saying that it’s both a particle and wave at the same time is not an answer to that question. It’s a way of shutting up the question.
+
+
+Brett Hall: I used to get, “It’s born as a particle, lives as a wave, and dies as a particle.” Because the experiments that capture the entity that’s moving will only ever capture the particle. But then the interference is explained by it being a wave. That was a tricky way of trying to get around the wave-particle duality by saying, “Well, not technically at the same time.” But there was no explanation for how it transitioned between being particle to wave or how it knew it should move between being a particle and a wave.
+
+
+David Deutsch: Yes. And, of course, it can move back as well. If you have a more complex interference experiment, it’s a particle, then a wave, then a particle. If you look at some of Vaidman’s experiments, it’s very hard to get your head around if you don’t have the Everett interpretation because it totally depends on taking seriously this quantum entity that cannot be described as a particle or a wave.
+
+
+Brett Hall: If what we’re saying of our good explanations is that they really are accounts of reality, in what sense are we getting closer to reality with the good explanations? My classic go-to example of Newton explaining gravity as this force that acts instantly on the bodies and then it is superseded by Einstein’s general relativity, where there is no such force whatsoever. We’re saying that this thing that was part of a good explanation no longer exists at all.
+
+
+David Deutsch: There are two answers to that question. One is in the book and one isn’t.
+
+
+In the book I say there are many concepts, laws, explanations that are shared between Newton’s theory and Einstein’s theory of gravity. For example, both theories adopt the heliocentric cosmology and they say that the motion of the Earth and the other planets in gravity is caused by the sun. It’s because the sun is there that an influence is felt. Now, the influence is not a force—it’s a coverture of space-time—but that curvature of space-time is caused by the mass of the sun.
+
+
+But there’s another sense in which say Newton’s theory and Einstein’s theory are more closely related than you might think. Newton’s theory contains the problems to which Einstein’s theory is the solution. Newton said that gravity travels instantaneously. That was a problem which people recognized before Einstein. They wanted to explain, “What does it even mean for something to travel instantly?” And then there was the fact that, if the universe lasts forever, as Newton thought, then how come in the long run it doesn’t all collapse?
+
+
+I don’t know if Newton was aware of what’s called Olber’s paradox, but according to Newton’s theory, if the universe is either infinite or very big, then the sky should be white. Again, that is a problem Newton’s theory can’t really answer. You have to make some very ad hoc assumptions to fit that into Newton’s theory as a cosmology. And Einstein’s theory just solves that problem, which was in Newton’s theory.
+
+
+And Newton’s theory solves the problem in Kepler’s theory, which was so severe that Galileo rejected it. Galileo did not want to believe Kepler’s theory because it didn’t explain why the orbits were ellipses. If they had been circles, there was an explanation that would’ve fit into the philosophy of the time. The circle is the perfect shape. If it wasn’t a circle, you’d have to explain why it isn’t a circle. Kepler was like, “Well, just look, it’s an ellipse.” That wasn’t good enough for Galileo, so he had to torture the theory to make it predict circles. But then Newton came along and said, “It’s the inverse square law and that can make circles, but it can [also] make ellipses.” And that is a deeper level of explanation even than saying circles are perfect shapes.
+
+
+So they’re related by the common assumptions and they’re related by the problems that they have or solve.
+
+
+New Paradigms
+Brett Hall: What you say there, though, it raises the tension between Karl Popper and Thomas Kuhn, who to some extent over-egg this idea that we have these grand revolutions in the history of science that completely overturn the previous paradigm and anyone working in that existing paradigm is literally incapable of conceiving how this new paradigm works. Kuhn has a lot more support out there in the intellectual community than Popper, certainly amongst the humanities, even amongst the sciences to some extent. And, of course, Kuhn has been taken to the extreme ever since by anything calling itself science, like gender science or something that appends the word “science” to some particular subject.
+
+
+Kuhn did say correct things, but, as you just said, it’s not the case that we completely do away with the previous paradigm. And the people who create the new paradigm tend to have understood the previous paradigm and solved problems from that previous paradigm.
+
+
+David Deutsch: This picture of the young iconoclast being rejected by the old stick-in-the-muds and then the young iconoclast draws together a few friends and, when the old stick-in-the-muds die, then the young iconoclasts become the old stick-in-the-muds. The thing is, it’s pure fiction. I don’t know of any actual situation where that happened. What does happen is that people often irrationally stick to their own ideas, whether they are new ideas or old ideas. People can be stubborn. Sometimes stubborn people who support a theory for no reason except that they feel it’s right, turn out to be right. There’s no algorithm for determining who is right according to who is more stubborn.
+
+
+Sometimes the person who’s more stubborn is actually right—like Lister and Semmelweis. They stuck to their guns. They were rejected, but even then it was not a generational thing. There was a much more complex process at work. [Doctors] didn’t just reject a theory. They rejected having to change their working practices that reduced their perceived dignity. But the perceived dignity of doctors is functional. Especially in the days when not much was known about medicine, if you told a person that they had to have their tonsil taken out—which was an extremely unpleasant, difficult, painful process—you needed a bit of authority, irrational as it is. The world was much more irrational in those days, and when science got better, people became more open to argument. But the generational story, as I say in The Fabric of Reality, provides no explanation for them changing from one theory to another.
+
+
+It’s as if they just invent a new fashion, like when Christian Dior says, “Put up your hemline,” then every woman in the world puts up their hemline. That used to happen apparently. That is not the description of what happens in science. There’s a reason why people adopt a theory. Even if it’s false, there’s a reason why they adopt it. If it’s not satisfactory to them, they’re not adopting it. And sometimes they’re irrational. That’s just how it is, but it’s not a picture of science.
+
+
+Naval: I think this is quite obvious if you look at technology. We might have gone from analog attempts at computing to vacuum tubes to transistors, and vacuum tubes to transistors is less of a jump than analog computing to vacuum tubes. Clearly there’s progress along the way. Now, we don’t use vacuum tube computing anymore—it’s been obsoleted—but that doesn’t mean it was wrong. It was a necessary stepping stone. It was closer to the truth and there was a lot to be learned from there. When you encounter it in real life, then it becomes a lot more tangible and it’s harder to refute.
+
+
+I find that the more feedback that you take from other people, the more likely you are to go astray; whereas the more feedback you take from reality and nature, the closer you are to the truth. And in science, unfortunately, a lot of it gets mixed up in philosophy and academia, where they’re not actually interacting as much with the real world. It shouldn’t happen in physics, but there is this social feedback loop where you’re talking to other people. You’re not always building things. The rockets don’t have to fly, so to speak.
+
+
+David Deutsch: But the growth of knowledge is possible in philosophy too. Even in morality and epistemology, even when you don’t have physical reality. It’s this thing I called a few minutes ago “taking the theory seriously,” that refutation of Solipsism is nothing more than taking Solipsism seriously. Rather than saying, “Oh, it might all just be my dream,” you go on from there: “Okay. If this is my dream, what can we say about my dream? So I’m dreaming the bus. I’m dreaming all the people in it. Now there’s a person who is wearing a yellow suit. Did I make that up? I’ve never thought of it before. Now I’m seeing it.”
+
+
+So if I’m a Solipsist, I have to have an explanation for how the things in my dream can have come about. And that’s really why Solipsism destroys itself. And in philosophy—in physics too—most ideas destroy themselves. As you said a little while ago, it’s rare to have a case where you can actually decide between two explanations by experiment.
+
+
+Brett Hall: When it comes to progress and understanding, is there going to be a theory that we are not going to be able to understand? I think it’s the prevailing view at the moment that there’s got to be something out there that is beyond our comprehension.
+
+
+David Deutsch: How do we know that there isn’t a limit? How do we know that there’ll be no new mathematical knowledge to discover? We can’t know. We could be wiped out by an incoming planet from another galaxy that is hurtling through our galaxy at half the speed of light, and we’ll just be all killed instantly. There’s no known theory that says that isn’t going to happen.
+
+
+Similarly, the same could be true in the universe of ideas. There could be a brick wall somewhere where we won’t go any further than that. But in both cases invoking that as an argument about what we can or should do is logically equivalent to believing in the supernatural. Because, why did I just say a planet moving at half the speed of light? Why didn’t I say an asteroid moving at 99% the speed of light? Why didn’t I say an illness that operates on principles that we don’t know and will wipe us out in a few days? There’s an infinity of things I could have said, and all of them make a sophisticated prediction without having an explanation for it.
+
+
+It’s exactly the same when people say that the world is going to end on such and such Tuesday. I would want to ask them, “Why Tuesday? Why not Wednesday?” And they will say, “Because Tuesday comes out of my interpretation of the Bible.” And I would say, “Why is it your interpretation of the Bible and not this other guy who says it’s Wednesday?” And pretty much immediately they don’t have an answer to that because they do not have an explanation for their prediction.
+
+
+It’s the same with the idea that the explanatory universality is going to run out for one reason or another, whether it’s physical wipeout or AGI apocalypse or we are all simulations in a computer, and so on.
+
+
+Foundations of Science
+Brett Hall: But there is this impulse in people to suggest things like Solipsism, the simulation hypothesis, whatever it happens to be, as the final theory. The interesting thing about your work is that you work at the foundations. You go as deep as you possibly can, but at the same time you’re against foundationalism.
+
+
+How do you square this circle for people? How do you say, “Well, I’m looking at the foundations—but on the other hand, I’m against foundations.”
+
+
+David Deutsch: It’s rather like the relationship between physics and structural engineering. Foundations are theories that explain why the higher level theories are as they are. But you can’t use Newton’s theory to build a bridge. To build a bridge, you need theories of bridge building.
+
+
+Christopher Wren—one of the reasons why he was a successful architect is that he began to use Newton’s theories seriously to design buildings. So when deciding what the distance between pillars ought to be, rather than have a master builder’s eye for what that should look like and what will or won’t collapse, he could actually work it out using Newtonian mechanics. That means that Newtonian mechanics was playing a role of understanding what makes buildings stand up in the first place and also criticizing particular designs as being not as good as other designs. Then you could use measurement and demonstration and so on to fill in the gaps.
+
+
+But if you’re just given Newton theory, you wouldn’t think of a suspension bridge. Nowhere in Newton’s Principia is there a picture of a suspension bridge. That was invented later. So engineering is a separate subject, and you don’t study Newton’s laws primarily to help you build better bridges. But what Newton’s theory did was unify our understanding. It gave us a new level of understanding. It influenced other sciences. People tried to make Newton’s theories in other fields of knowledge, some of which worked and some of which didn’t work.
+
+
+The Enlightenment
+Brett Hall: Now tell me this: Newton, English; Christopher Wren, English; Alan Turing, English. What’s special about England? We shouldn’t judge one culture as being superior to another; however, it seems as though we’ve got the beginnings of a special kind of enlightenment there in Britain leading to an industrial revolution led by Britain. What’s going on? Why is there so much coming out of England and perhaps the Anglosphere more broadly?
+
+
+David Deutsch: There was the Enlightenment, which largely took place in England. There were individual people who participated in it in France and Germany as well, but in England it became the mainstream much faster. It was a rebellion against authority, but it was a non-utopian rebellion. So instead of saying, “Let’s get rid of the authority and replace it by the thing that’s really true, the thing that’s really reliable, the thing that we won’t ever have to overturn again,” it was a case of, “Look, there’s this problem. Some people have privilege, but God tells us that all people are equal. What can we do to fix this problem?”
+
+
+You also had quite rapid social change [and] economic change, but it all took the form of extending to more and more classes of people privileges that had previously been only in the ruling class. You had the Parliament, which was only open to a certain group of people. Then it was opened up to more people and more people, and so on.
+
+
+There was a phrase, “The Englishman’s home is his castle.” Now, I’m not a historian, but presumably an aristocrat’s home was his castle. His castle was his home and his home was his castle and nobody was legitimately allowed to interfere with him in his own domain. So when you then made reforms that said that the Englishman’s home is his castle, that was a modification of existing knowledge of how to structure society. Now, you had people who owned houses who weren’t the aristocracy. There was a readymade set of privileges that could be extended until, eventually, one after another, they were extended to everyone.
+
+
+Whereas in France or Germany, it was different. Their reforms were all about abolishing things. Abolishing the tyrant. To this day, there are traditions of utopianism. The idea is to set up institutions that will last forever and that they are to be set up by fundamental theories—like human rights—and you write them down once and for all, then make it difficult to change them. And set up institutions that are going to protect those rights forever.
+
+
+But Britain has stuck to its plan over centuries, and it has produced rapid change without any sudden revolutions or without any extremism. In the 1930s totalitarian theories were very widespread all over Europe, and totalitarian parties either took over or were a major threat to democratic parties. Whereas in Britain, there was a fascist movement, but it never got a single MP and it went away of its own accord soon afterwards. That’s because it was taken for granted in British political culture that the political system is here to solve problems. You petition the government for redress of grievances, not to line each other up against the wall and shoot them.
+
+
+The theory was that there is such a thing as a grievance, there is such a thing as redressing, that it’s not easy to do that. The way to do it is to have the rival theories confront each other. You must be allowed to say what you think the problem is and other people say what they think the problem is, and so on. Nowhere is it assumed that someone has the final answer.
+
+
+Misinformation
+Naval: This is why the current rage against misinformation is so troubling—and people even invoke Popper for it. There’s a political cartoon that goes around invoking Popper as saying, “We don’t tolerate the intolerant, so we have to shut them up because they’re spreading misinformation.” When nothing could be more the opposite of Popper, which is: you have to have debate, have rival opposing theories, have a system for removing bad rulers and reversing bad decisions.
+
+
+In that sense the system with two parties makes sense because you can hold one accountable against the other. Every eventual successful truth is defined as misinformation by the other side because it contradicts what is already believed to be true. So eliminating misinformation a priori is impossible because knowledge a priori is impossible. It has to be creatively conjectured and discovered.
+
+
+There is this beautiful idea in The Fabric of Reality, and when I try to explain it to friends in my own halting way, it blows their minds. It combines all four strands of The Fabric of Reality. You talk about epistemology, computation, quantum physics, and evolution. If I can summarize the insight, it goes something like this: Knowledge is a thing that causes itself to be replicated in the environment. If I figure out how to create fire, then other people in the environment will copy that because it’s useful. If there’s a gene that is well adapted to the environment, then the sequence in the gene that leads to higher survivability gets copied. Whereas if there’s random or junk DNA, that’s not going to get copied.
+
+
+If you look at how the multiverses differentiate the randomness, the non-useful part—the information that is not knowledge—will be different in the multiverses. Whereas, the knowledge that is useful—the genes that are leading to higher adaptation, the ideas that are leading to higher survivability, the inventions that we’re creating that are actually working, the philosophies that we have that are causing us as humans to thrive and replicate—those will be common across the multiverse.
+
+
+So it will almost be like there is a crystal of knowledge. And I don’t think this is doable, [but] if you were somehow able to peek at the multiverse as a single object, then truth would be emergent, or we would be closer to the truth by seeing what is common across the multiverse, and what is different across the multiverse would not be true. This insight, as far as I know, is unique and massively interesting. But is there anything practical out of it someday?
+
+
+David Deutsch: There’s a fundamental reason why, even if we could look into the multiverse, it wouldn’t be that much help. Because there is no limit to the size of error we can make. Therefore, when you look around in a multiverse and see all these crystals, yes, on the whole, there are great big fat ones and you can guess that this one is heading towards the truth. You can’t tell where because you don’t know where this crystal is going to go.
+
+
+And then there’ll be this other great big thing—a religion or something which has been growing for thousands of years—and there’s no way of examining it with a magnifying glass and seeing that it’s any different from one that is heading towards the truth. We might hope that most of the big ones are heading towards the truth according to some definition of “most.” In one universe you can get a hint of that already because you can say what idea is most persuasive. Okay. Many bad ideas are persuasive. What idea is most persuasive to people who adopt it because they think it solves their problem? Okay. But there are many such ideas that are false too. So I’m afraid it’s not going to work.
+
+
+If there were a limit to the size of error, you would know that once you’ve made an error of a certain size, when you have your next idea, it’s bound to be true. “No one can make more than 256 errors in a row” would be the thing. And nothing like that is true.
+
+
+Naval: No shortcuts.
+
+
+David Deutsch: Exactly, there’s no shortcut.
+
+
+Naval: It seems that the nature of knowledge is that it creates non-linearities. So even a single false idea can create false knowledge that overwhelms a truth for quite a while, in a large amount of space.
+
+
+David Deutsch: Yes.
+
+
+Naval: So it’s always creative. It’s always conjectural. It’s always contextual, which gives an infinity of improvement ahead of us which keeps life interesting.
